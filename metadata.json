@@ -1,0 +1,6 @@
+{
+  "name": "Tradescape - Trader Risk Dashboard",
+  "description": "An interactive Trader Risk Dashboard for Tradescape evaluating account rules, maximum drawdown, daily loss limits, real-time metrics, trade performance, and equity curve analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
